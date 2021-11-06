@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-parking-lot-lot-name-index-js",
+    "path": "/parking/lot/[lotName]/",
+    "result": {"pageContext":{"matchPath":"/parking/lot/:lotName"}},
+    "staticQueryHashes": [],
+    "matchPath": "/parking/lot/:lotName"}
